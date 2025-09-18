@@ -6,7 +6,7 @@ The LEDs turn on one after another, then turn off in the same order, creating a 
 ---
 
 ## Breadboard Diagram
-![Breadboard Diagram](./13q4trgf.png)
+![Breadboard Diagram](./1ACT1.jpg)
 
 ---
 
