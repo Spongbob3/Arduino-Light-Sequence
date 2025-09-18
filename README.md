@@ -1,5 +1,6 @@
 ## Breadboard Diagram
-![image](https://github.com/user-attachments/assets/b53d4194-ec74-4cd0-8220-963a333cef1c)
+![image]![ACT1](https://github.com/user-attachments/assets/b4eef8d0-c5e7-4a1e-bf57-322ec3311d2a)
+
 
 1. **Variable Declaration**
    - An array `ledPins[]` is declared, containing the pin numbers `{12, 11, 10, 9, 8}`. These pins will be used to control the LEDs.
